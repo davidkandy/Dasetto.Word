@@ -12,8 +12,12 @@ namespace Dasetto.Word
     /// </summary>
     public enum WindowDockPosition
     {
+        /// <summary>
+        /// Not docked
+        /// </summary>
         Undocked = 0,
         /// <summary>
+        /// Docked to the left of the screen
         /// </summary>
         Left = 1,
         /// <summary>
