@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\Dasetto.Word\Dasetto.Word\obj\Debug\Dasetto.Word.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Dasetto.Word\Dasetto.Word\obj\Debug\Controls\SideMenuControl.g.cs
+C:\Users\David\source\repos\Dasetto.Word\Dasetto.Word\obj\Debug\Pages\ChatPage.g.cs
+C:\Users\David\source\repos\Dasetto.Word\Dasetto.Word\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\David\source\repos\Dasetto.Word\Dasetto.Word\obj\Debug\MainWindow.g.cs
+C:\Users\David\source\repos\Dasetto.Word\Dasetto.Word\obj\Debug\App.g.cs
+C:\Users\David\source\repos\Dasetto.Word\Dasetto.Word\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\David\source\repos\Dasetto.Word\Dasetto.Word\obj\Debug\Dasetto.Word_MarkupCompile.cache
+C:\Users\David\source\repos\Dasetto.Word\Dasetto.Word\obj\Debug\Dasetto.Word_MarkupCompile.lref

@@ -1,0 +1,16 @@
+﻿<local:BasePage x:TypeArguments="local:LoginViewModel" x:Class="Dasetto.Word.ChatPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Dasetto.Word"
+      mc:Ignorable="d" 
+      x:Name="Chat"
+      d:DesignHeight="700" d:DesignWidth="700"
+      d:DataContext="{x:Static local:ChatMessageListDesignModel.Instance}"
+      >
+    <Border>
+        
+    </Border>
+
+</local:BasePage>
